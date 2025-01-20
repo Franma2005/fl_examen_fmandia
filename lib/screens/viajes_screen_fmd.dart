@@ -24,15 +24,23 @@ class ViajesScreen extends StatelessWidget {
           children: [
             Row(
               children: [
-                CustomCardFmd(),
-                CustomCardFmd()
+                CustomCardFmd(
+
+                ),
+                CustomCardFmd(
+
+                )
               ],
             ),
             SizedBox(height: 20,),
             Row(
               children: [
-                CustomCardFmd(),
-                CustomCardFmd()
+                CustomCardFmd(
+
+                ),
+                CustomCardFmd(
+                  
+                )
               ],
             )
           ],
