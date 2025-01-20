@@ -25,10 +25,10 @@ class ViajesScreen extends StatelessWidget {
             Row(
               children: [
                 CustomCardFmd(
-
+                  urlImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATmxCMp213XTvs_YN64jf9i40b69FUZLV2Q&0',
                 ),
                 CustomCardFmd(
-
+                  urlImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUoTkEBVyLvb5ELGkw_EyJ2UcTHHa9AoMHw&s',
                 )
               ],
             ),
@@ -36,10 +36,10 @@ class ViajesScreen extends StatelessWidget {
             Row(
               children: [
                 CustomCardFmd(
-
+                  urlImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXfpci3hOPku193OK3fhx3ws1r8PT7lbiEQ&s',
                 ),
                 CustomCardFmd(
-                  
+                  urlImage: 'https://media.campsaround.com/mainweb/wp-content/uploads/2023/08/Camping-Guide-For-Beginners-Things-You-Must-Know-Before-You-Go-Camping.png',
                 )
               ],
             )
